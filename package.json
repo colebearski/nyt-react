@@ -1,0 +1,26 @@
+{
+  "name": "nyt-react",
+  "version": "1.0.0",
+  "description": "A React App that will allow you to search and gather news.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colebearski/nyt-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colebearski/nyt-react/issues"
+  },
+  "homepage": "https://github.com/colebearski/nyt-react#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  }
+}
